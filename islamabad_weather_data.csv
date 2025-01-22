@@ -1,0 +1,8 @@
+Date,Temperature_C,Humidity_Percent,WindSpeed_kmh,Pressure_hPa,Condition
+1/15/2025,18,20%,6,1015,Sunny
+1/16/2025,16,43%,28,1012,Partly Sunny
+1/17/2025,12,62%,4,1010,Scattered clouds
+1/18/2025,14,36%,4,1013,Overcast
+1/19/2025,12,58%,0,1016,Overcast
+1/20/2025,16,58%,7,1018,Scattered clouds
+1/21/2025,8,77%,4,1020,Clear
