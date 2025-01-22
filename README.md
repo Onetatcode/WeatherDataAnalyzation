@@ -1,8 +1,6 @@
-# Weather Data Analysis (Retro 8-bit Style)
+# Weather Data Analysis
 
-![Banner]([https://example.com/retro-banner.png](https://www.analyticssteps.com/backend/media/thumbnail/6006173/6278986_1571298721_Weather_Forecoast_Graphics.jpg))
-
-## 🌈 Welcome to WeatherData8Bit 🌦️
+## 🌈 Welcome to WeatherData 🌦️
 
 A retro-styled MATLAB project to analyze and visualize Islamabad's weather data! This repository features:
 - 📈 **Temperature trends**.
@@ -34,12 +32,7 @@ A retro-styled MATLAB project to analyze and visualize Islamabad's weather data!
    - Explore humidity heatmaps.
    - See temperature predictions.
 
-## 🎨 Sample Outputs
-### Temperature Trend
-![Temperature Graph](https://example.com/temp-graph.png)
 
-### Humidity Heatmap
-![Humidity Heatmap](https://example.com/humidity-heatmap.png)
 
 ### Predicted Temperatures
 ```
